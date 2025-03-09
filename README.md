@@ -43,10 +43,10 @@ The SQL script contains multiple queries for analyzing cybersecurity breaches:
 
 - Feel free to modify the SQL queries to tailor the analysis to your specific needs.
 
-4. License
+# License
 
 Distributed under the MIT License. See LICENSE for more information.
 
-5. Acknowledgements
+# Acknowledgements
 
 Data Source: https://www.kaggle.com/datasets/alukosayoenoch/cyber-security-breaches-data
